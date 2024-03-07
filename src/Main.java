@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         FileManager fileManager = new FileManager();
-        fileManager.listFilesInDirectory("/Java");
+        fileManager.sortFilesInDirectory("/Java");
 
     }
 
